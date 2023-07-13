@@ -1,0 +1,13 @@
+.Projects{
+    text-align: center;
+    margin-left: 75px;
+}
+
+.Projects h1{
+    font-size: 45px;
+}
+
+.Projects img{
+    width: 400px;
+    border-radius: 10px;
+}
